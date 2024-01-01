@@ -1,4 +1,4 @@
-# Sample godot Dodge ball game
+# Sample godot Dodge ball game from their tutorial
 Currently to run:
 1. open godot game engine
 2. from the Project Manager interface select Import
